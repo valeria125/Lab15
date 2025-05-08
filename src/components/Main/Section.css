@@ -1,0 +1,9 @@
+.section {
+    display: grid;
+    place-items: center;
+  }
+  
+  .section-image {
+    max-width: 100%;
+    height: auto;
+  }
