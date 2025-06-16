@@ -1,0 +1,104 @@
+{
+    "header": {
+      "logo": "https://bereza-detailing.ru/assets/template/img/logo.png",
+      "nav_links": [
+        {"title": "Услуги", "anchor": "services"},
+        {"title": "О нас", "anchor": "about"},
+        {"title": "Отзывы", "anchor": "feedback"},
+        {"title": "Контакты", "anchor": "contacts"}
+      ],
+      "phone": "+7 (999) 123-45-67"
+    },
+  
+    "main": {
+      "hero": {
+        "title": "Профессиональный детейлинг авто",
+        "subtitle": "Вернём первозданный вид вашему автомобилю",
+        "cta": "Записаться"
+      },
+      "portfolio": [
+        {
+          "image": "https://eastline-garage.ru/images/blog/class_polish/img_8861.jpg",
+          "title": "Полировка кузова Mercedes",
+          "description": "Полное восстановление ЛКП"
+        },
+        {
+          "image": "https://eastline-garage.ru/images/portfolio/himchistka-i-polirovka/BMW3_yak/01_result.jpg",
+          "title": "Химчистка салона BMW",
+          "description": "Комплексная очистка кожи"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOgaSLaphT2hzh-h8kNAbzZgyn5NZBsjOUHg&s",
+          "title": "Керамическое покрытие",
+          "description": "Защита на 2 года"
+        }
+      ],
+      "services": [
+        {
+          "title": "Полировка кузова",
+          "description": "Полное восстановление лакокрасочного покрытия",
+          "icon": "https://autobezzabot.ru/wp-content/uploads/2017/07/deposition2.svg"
+        },
+        {
+          "title": "Химчистка салона",
+          "description": "Глубокая очистка всех поверхностей",
+          "icon": "https://autobezzabot.ru/wp-content/uploads/2017/07/deposition4.svg"
+        },
+        {
+          "title": "Защита кузова",
+          "description": "Нанесение керамического покрытия",
+          "icon": "https://autobezzabot.ru/wp-content/uploads/2017/07/deposition3.svg"
+        }
+      ],
+      "advantages": [
+        {"title": "Лет опыта", "value": "5+", "subtitle": "работы"},
+        {"title": "Гарантия", "value": "12", "subtitle": "месяцев"},
+        {"title": "Клиентов", "value": "1000+", "subtitle": "довольных"}
+      ],
+      "testimonials": [
+        {
+          "author": "Иван Петров",
+          "text": "Отличный сервис, машина как новая!",
+          "car": "BMW X5"
+        },
+        {
+          "author": "Иван Петров",
+          "text": "Отличный сервис, машина как новая!",
+          "car": "BMW X5"
+        },
+        {
+          "author": "Иван Петров",
+          "text": "Отличный сервис, машина как новая!",
+          "car": "BMW X5"
+        }
+      ]
+    },
+  
+    "footer": {
+      "logo": "https://bereza-detailing.ru/assets/template/img/logo.png",
+      "contacts": {
+        "address": "г. Москва, ул. Автодетейлинговая, 12",
+        "phone": "+7 (999) 123-45-67",
+        "email": "info@detail.ru"
+      },
+      "socials": [
+        {
+          "name": "VK",
+          "icon": "https://cdn-icons-png.flaticon.com/512/145/145813.png",
+          "url": "#"
+        },
+        {
+          "name": "WhatsApp",
+          "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384023.png",
+          "url": "#"
+        },
+        {
+          "name": "Telegram",
+          "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+          "url": "#"
+        }
+      ],
+      "copyright": "© 2024 AutoDetail. Все права защищены"
+    }
+  }
+  
